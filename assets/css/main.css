@@ -1,0 +1,31 @@
+a:link { 
+    text-decoration: none; 
+} 
+a:visited { 
+    text-decoration: none; 
+} 
+a:hover { 
+    text-decoration: none; 
+} 
+a:active { 
+    text-decoration: none; 
+}
+.underline{
+    height:5px ;
+    width:1300px ;
+    background-color: black;
+    border-radius: 20px;
+
+}
+.underline1{
+    height:5px ;
+    width:150px ;
+    background-color: red;
+    border-radius: 20px;
+}
+.bg-f2{
+    background-color: #f2f2f2;
+}
+.w{
+    color: white;
+}
